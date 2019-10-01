@@ -1,8 +1,8 @@
 galaxy_info:
   author: James Dugger 
-  description: Install *** on RHEL/CentOS
+  description: Install timezone-utc on RHEL/CentOS
   company: Cyberitas Technologies, LLC
-  license: license (GPLv2, CC-BY, etc)
+  license: license (MIT)
   min_ansible_version: 2.4
   platforms:
     - name: EL
@@ -10,4 +10,5 @@ galaxy_info:
         - 7
   galaxy_tags:
     - web
+    - time
   dependencies: []
