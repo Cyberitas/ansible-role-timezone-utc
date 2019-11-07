@@ -23,7 +23,7 @@ Example Playbook
 
     - hosts: servers
       roles:
-         - { role: jhd3.ansible_role_timezone_utc }
+         - { role: cyberitas.ansible_role_timezone_utc }
 
 License
 -------
